@@ -10,6 +10,8 @@ Aave Credit Delegation (Kovan Network) - https://aave-credit-delegation.netlify.
 
 ![](screenshots/aave_credit_delegation_2.png)
 
+![](screenshots/aave_credit_delegation_3.png)
+
 ### Getting Started
 
 1) Clone the repo
